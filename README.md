@@ -1,3 +1,5 @@
+# Hi there 👋
+
 <!-- Animated Gradient Background Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6e40c9,100:00c6ff&height=200&section=header&text=Abhishek%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
@@ -23,17 +25,19 @@
 
 ---
 
-#  About Me
+## 🙋‍♂️ About Me
+
 <ul>
- <li /> B.Tech CSE Student.  
- <li />Passionate about scalable backend systems & clean UI.  
- <li />Familiar with fundamental Data Structures & Algorithms concepts, actively building problem-solving skills. 
- <li />Exploring Cloud & System Design.  
- <li />Love building real-world problem solving applications.  
-<ul>
+  <li>B.Tech CSE Student</li>
+  <li>Passionate about scalable backend systems &amp; clean UI</li>
+  <li>Familiar with fundamental Data Structures &amp; Algorithms concepts, actively building problem-solving skills</li>
+  <li>Exploring Cloud &amp; System Design</li>
+  <li>Love building real-world problem solving applications</li>
+</ul>
+
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php,react,nodejs,express,mongodb,tailwind,git,github,vscode,vercel,docker" />
@@ -41,19 +45,25 @@
 
 ---
 
-# 📊 GitHub Analytics
-
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=abhii-48&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhii-48&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
 ---
 
-
-
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhii-48&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+</p>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:6e40c9,100:0D1117&height=120&section=footer"/>
 </p>
